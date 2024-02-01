@@ -43,11 +43,12 @@ Deleting System Restore Points
 ⭐️Hidden Powershell 
 #
 ⭐️Hidden CMD
-##########################
 
- Filezilla hosts-
+#
+
+Filezilla hosts-
 Process List
-
+#
 ⭐️Disable UAC 
 #
 ⭐️Disable Windows Defender 
